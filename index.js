@@ -4,4 +4,8 @@ var recipes = {
   peppers: "4"
 }
 
-function updateObjectWithKeyA
+function updateObjectWithKeyAndValue(object, key, value) {
+  
+}
+
+function 
